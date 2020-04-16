@@ -1,5 +1,6 @@
 ### Date created
-Creation date: 04/16/2020
+Creation date: 04/16/2020 
+Note: This is the date the project is being added to GitHub
 
 ### Project Title
 Bikeshare Analysis Project
