@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Creation date: 04/16/2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+This will analyze bicycle rideshare data for the cities of Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+Input files are chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit the udacity nanodegree program to stimulate ideas for creating this project.
 
