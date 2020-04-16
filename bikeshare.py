@@ -5,6 +5,7 @@ import numpy as np
 from calendar import month_name
 
 # input files are required in local directory
+# special note: washington does not have user stats
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
